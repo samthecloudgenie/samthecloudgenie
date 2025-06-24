@@ -8,10 +8,10 @@ My name is Onah Samuel and I'm a Cloud & DevOps Engineer. I'm passionate about l
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I have skills in HTML/CSS, Javascript and Python 
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
+- 🌱 I have skills in Bash Scripting, CI/CD using Github Actions, Docker, Ansible, Terraform, and AWS. 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Engineer, DevOps Engineer, or Cloud Administrator (Intern or Junior level).
+- 💼 Job interests: Cloud Engineer or DevOps Engineer (Junior level).
 - 📫 You can contact me by emailing samuelonah70@gmail.com.
 
 ---
